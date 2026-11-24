@@ -1,44 +1,128 @@
-# vCard - Personal portfolio
+# N. Chirudeep – Personal Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+### ECE Student | Full Stack Developer
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+Welcome to my personal portfolio repository! This website showcases my skills, educational background, technical interests and projects as an Electronics and Communication Engineering student interested in Full Stack Web Development.
 
-## Demo
+## 🌐 Live Demo
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+**Portfolio Website:** Add your deployed portfolio URL here.
 
-## Prerequisites
+## 👨‍💻 About Me
 
-Before you begin, ensure you have met the following requirements:
+Hello! I'm **N. Chirudeep**, an Electronics and Communication Engineering student at **Koneru Lakshmaiah Education Foundation (KLU)**.
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+I am passionate about developing modern, responsive and user-friendly web applications. I enjoy learning new technologies, building practical projects and solving real-world problems through programming.
 
-## Installing vCard
+My goal is to continuously improve my technical knowledge and become a skilled Full Stack Developer.
 
-To install **vCard**, follow these steps:
+## 🚀 Technologies Used
 
-Linux and macOS:
+The portfolio is developed using:
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+- HTML5 – Website structure
+- CSS3 – Styling and responsive design
+- JavaScript – Interactive functionality
+- Google Fonts – Typography
+- Ionicons – Icons
+
+## 💻 Technical Skills
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- Git & GitHub
+
+## 📂 Featured Project
+
+### Game Portal
+
+A Full Stack Web Application designed for gaming tournament management.
+
+**Technologies:**
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+
+**Live Website:**  
+https://gameportal-sable.vercel.app/
+
+**GitHub Repository:**  
+https://github.com/chiru111-bot/gama-potal-project
+
+## ✨ Portfolio Features
+
+- Personal introduction and profile
+- Education and technical skills
+- Development services
+- Project showcase
+- Contact section
+- Responsive website layout
+- Interactive navigation
+
+## 📁 Project Structure
+
+```text
+personal-portfolio/
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── script.js
+│   └── images/
+│
+├── index.html
+├── README.md
+└── LICENSE
 ```
 
-Windows:
+## ⚙️ How to Run Locally
+
+1. Clone this repository:
 
 ```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+git clone YOUR_GITHUB_REPOSITORY_URL
 ```
 
-## Contact
+2. Open the project folder:
 
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
+```bash
+cd personal-portfolio
+```
 
-## License
+3. Open the `index.html` file in your browser.
 
-MIT
+Alternatively, use the **Live Server** extension in Visual Studio Code.
+
+## 📬 Contact
+
+**Name:** N. Chirudeep
+
+**GitHub:**  
+https://github.com/chiru111-bot
+
+**LinkedIn:**  
+Add your LinkedIn profile URL.
+
+**Email:**  
+Add your professional email address.
+
+## 🎯 Future Improvements
+
+- Add more full-stack projects.
+- Improve portfolio animations and interactions.
+- Integrate a working contact form.
+- Add more technical skills and achievements.
+- Continuously improve responsive design.
+
+---
+
+⭐ Thank you for visiting my portfolio repository!
+
+**N. Chirudeep | Aspiring Full Stack Developer**

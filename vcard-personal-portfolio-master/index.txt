@@ -1,240 +1,153 @@
-vCard - Personal Portfolio
+# vCard – Personal Portfolio
 
-# sidebar
+# SIDEBAR
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+N. Chirudeep
+
+ECE Student | Full Stack Developer
 
 Show Contacts
 
-Email
-richard@example.com
+Email  
+Your professional email
 
-Phone
-+1 (213) 352-2795
+Phone  
+Your phone number
 
-Birthday
-June 23, 1982
+Location  
+Andhra Pradesh, India
 
-Location
-Sacramento, California, USA
+# NAVBAR
 
-# navbar
-
-About
-Resume
-Portfolio
-Blog
+About  
+Resume  
+Portfolio  
 Contact
 
-# about
+# ABOUT
 
-About me
+## About Me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+Hello! I'm N. Chirudeep, an Electronics and Communication Engineering student at KLU with a strong interest in Full Stack Web Development and emerging technologies.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+I enjoy creating modern, responsive and user-friendly web applications. I have experience working with HTML, CSS, JavaScript, React.js, Node.js, Express.js and MongoDB.
 
+I believe in learning through practical implementation and solving real-world problems through technology. My goal is to continuously improve my technical skills and become a skilled software developer.
 
-## service
+## SERVICES
 
-What i'm doing
+### What I'm Doing
 
-alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+**Frontend Development**
 
-alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+Building responsive and interactive websites using HTML, CSS, JavaScript and React.
 
-alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+**Backend Development**
 
-alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+Developing server-side applications and REST APIs using Node.js and Express.js.
 
+**Full Stack Development**
 
-## testimonials
+Integrating frontend interfaces with backend services and MongoDB databases.
 
-Testimonials
+**Problem Solving**
 
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+Improving programming and logical thinking skills through practical projects and continuous learning.
 
-alt = Jessica miller
-Jessica miller
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+# RESUME
 
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+## Education
 
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+**Koneru Lakshmaiah Education Foundation (KLU)**
 
+B.Tech – Electronics and Communication Engineering
 
-## clients
+Currently pursuing
 
-Clients
+Developing knowledge in electronics, programming, computer science and software development.
 
-alt = client logo
+## Projects & Practical Experience
 
+**Game Portal**
 
+Full Stack Web Application
 
-# resume
+Developed an esports tournament management platform using React, Node.js, Express.js and MongoDB.
 
-Resume
+**Web Development**
 
-Education
+Ongoing Learning
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Practicing frontend development, JavaScript DOM manipulation, backend development and database integration.
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+## My Skills
 
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+HTML – 85%
 
-Experience
+CSS – 80%
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+JavaScript – 75%
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+React.js – 70%
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Node.js – 65%
 
-My skills
+Express.js – 65%
 
-Web design
-80%
-Graphic design
-70%
-Branding
-90%
-WordPress
-50%
+MongoDB – 65%
 
+Git & GitHub – 70%
 
+# PORTFOLIO
 
-# portfolio
-
-Portfolio
+## Portfolio
 
 All
-Web design
-Applications
-Web development
 
-Select category
-All
-Web design
-Applications
-Web development
+Web Development
 
-alt = finance
-Finance
-Web development
+Full Stack Development
 
-alt = orizon
-Orizon
-Web development
+### Game Portal
 
-alt = fundo
-Fundo
-Web design
+Full Stack Web Development
 
-alt = brawlhalla
-Brawlhalla
-Applications
+Technologies:
 
-alt = dsm.
-DSM.
-Web design
+React.js, Node.js, Express.js, MongoDB
 
-alt = metaspark
-MetaSpark
-Web design
+Live Website:
 
-alt = summary
-Summary
-Web development
+https://gameportal-sable.vercel.app/
 
-alt = task manager
-Task Manager
-Applications
+GitHub Repository:
 
-alt = arrival
-Arrival
-Web development
+https://github.com/chiru111-bot/gama-potal-project
 
+# CONTACT
 
+## Let's Connect!
 
-# blog
+I'm open to connecting with developers, learning new technologies and discussing interesting projects.
 
-Blog
+**GitHub**
 
-alt = Design conferences in 2022
-Design
-Fab 23, 2022
-Design conferences in 2022
-Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+https://github.com/chiru111-bot
 
-alt = Best fonts every designer
-Design
-Fab 23, 2022
-Best fonts every designer
-Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+**LinkedIn**
 
-alt = Design digest #80
-Design
-Fab 23, 2022
-Design digest #80
-Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+Add your LinkedIn profile URL.
 
-alt = UI interactions of the week
-Design
-Fab 23, 2022
-UI interactions of the week
-Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+**Email**
 
-alt = The forgotten art of spacing
-Design
-Fab 23, 2022
-The Forgotten Art Of Spacing
-Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Add your professional email.
 
-alt = Design digest #79
-Design
-Fab 23, 2022
-Design Digest #79
-Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
-
-
-
-# contact
-
-Contact
-
-Contact Form
+## Contact Form
 
 Full name
+
 Email address
+
 Your Message
 
 Send Message
